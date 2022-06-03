@@ -1,1 +1,2 @@
-BCEswap
+
+const name = '[BCEswap]'
