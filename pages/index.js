@@ -114,8 +114,8 @@ export const getStaticProps = async () => {
       offset: '0'
     },
     headers: {
-      'X-RapidAPI-Host': 'coinranking1.p.rapidapi.com',
-      'X-RapidAPI-Key': 'ddfebd0638msh693246cc713b751p1896f4jsn6f645a799447'
+      'X-RapidAPI-Host': '',
+      'X-RapidAPI-Key': ''
     }
   };
   
