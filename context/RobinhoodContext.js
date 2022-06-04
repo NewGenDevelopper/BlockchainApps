@@ -12,9 +12,9 @@ import {
   usdcAddress,
 } from '../lib/constants'
 
-export const RobinhoodContext = createContext()
+export const BceContext = createContext()
 
-export const RobinhoodProvider = ({ children }) => {
+export const BceProvider = ({ children }) => {
 
   const [currentAccount, setCurrentAccount] = useState('')
   const [formattedAccount, setFormattedAccount] = useState('')
