@@ -50,7 +50,7 @@ export default function Home({ coins }) {
       <div className={styles.mainContainer}>
         <div className={styles.leftMain}>
           <div className={styles.portfolioAmountContainer}>
-            <div className={styles.portfolioAmount}>{balance} BCE</div>
+            <div className={styles.portfolioAmount}>{balance} CBS</div>
             <div className={styles.portfolioPercent}>
               (+10.57%)
               <span className={styles.pastHour}>Past Hour</span>
